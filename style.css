@@ -47,3 +47,8 @@ a:hover {
     font-size: xx-large;
     font-family: 'Londrina Solid', cursive;
 }
+
+.joke-container {
+    padding-left: 350px;
+}
+
